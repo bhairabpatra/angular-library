@@ -1,0 +1,1 @@
+{"version":3,"file":"counter-demo.component.d.ts","sourceRoot":"","sources":["../../../../projects/my-demo-lib/src/lib/counter-demo/counter-demo.component.ts"],"names":[],"mappings":"AAAA,OAAO,EAAa,MAAM,EAAE,MAAM,eAAe,CAAC;;AAElD,qBAKa,oBAAqB,YAAW,MAAM;IAEjD,OAAO,EAAC,MAAM,CAAK;;IAGnB,QAAQ,IAAI,IAAI;IAGhB,cAAc;IAGZ,eAAe;iCAXN,oBAAoB;2CAApB,oBAAoB;CAehC"}
